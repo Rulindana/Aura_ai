@@ -1,6 +1,6 @@
 {
-    "name": "aura_ai",
-    "short_name": "aura_ai",
+    "name": "Aura AI",
+    "short_name": "Aura AI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
