@@ -27,53 +27,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDvgJICpWwGo0rAN-asYGc9RpeK7inLznc',
-    appId: '1:781788885501:web:b5e095a0f6d5ab3bb454394',
-    messagingSenderId: '781788885501',
-    projectId: 'aura-6894',
-    authDomain: 'aura-6894.firebaseapp.com',
-    storageBucket: 'aura-6894.firebasestorage.app',
+    apiKey: 'AIzaSyBpWKqN0fKLZ6G_tJNeLHy82yep0GZEgp4',
+    appId: '1:781780885501:web:b5e095a0f6d5ab3bb454394',
+    messagingSenderId: '781780885501',
+    projectId: 'aura-689a4',
+    authDomain: 'aura-689a4.firebaseapp.com',
+    storageBucket: 'aura-689a4.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDvgJICpWwGo0rAN-asYGc9RpeK7inLznc',
-    appId: '1:781780885501:android:576c81f6e8f0d3ad454394', // You need to add this
-    messagingSenderId: '781788885501',
-    projectId: 'aura-6894',
-    storageBucket: 'aura-6894.firebasestorage.app',
+    apiKey: 'AIzaSyBpWKqN0fKLZ6G_tJNeLHy82yep0GZEgp4',
+    appId: '1:781780885501:android:576c81f6e8f0d3ad454394',
+    messagingSenderId: '781780885501',
+    projectId: 'aura-689a4',
+    storageBucket: 'aura-689a4.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDvgJICpWwGo0rAN-asYGc9RpeK7inLznc',
-    appId: '1:781788885501:ios:YOUR_IOS_APP_ID', // You need to add this
-    messagingSenderId: '781788885501',
-    projectId: 'aura-6894',
-    storageBucket: 'aura-6894.firebasestorage.app',
+    apiKey: 'AIzaSyBpWKqN0fKLZ6G_tJNeLHy82yep0GZEgp4',
+    appId: '1:781780885501:ios:YOUR_IOS_APP_ID',
+    messagingSenderId: '781780885501',
+    projectId: 'aura-689a4',
+    storageBucket: 'aura-689a4.firebasestorage.app',
     iosBundleId: 'com.example.auraAi',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDvgJICpWwGo0rAN-asYGc9RpeK7inLznc',
-    appId: '1:781788885501:ios:YOUR_MACOS_APP_ID', // You need to add this
-    messagingSenderId: '781788885501',
-    projectId: 'aura-6894',
-    storageBucket: 'aura-6894.firebasestorage.app',
+    apiKey: 'AIzaSyBpWKqN0fKLZ6G_tJNeLHy82yep0GZEgp4',
+    appId: '1:781780885501:ios:YOUR_MACOS_APP_ID',
+    messagingSenderId: '781780885501',
+    projectId: 'aura-689a4',
+    storageBucket: 'aura-689a4.firebasestorage.app',
     iosBundleId: 'com.example.auraAi',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDvgJICpWwGo0rAN-asYGc9RpeK7inLznc',
-    appId: '1:781788885501:windows:YOUR_WINDOWS_APP_ID', // You need to add this
-    messagingSenderId: '781788885501',
-    projectId: 'aura-6894',
-    storageBucket: 'aura-6894.firebasestorage.app',
+    apiKey: 'AIzaSyBpWKqN0fKLZ6G_tJNeLHy82yep0GZEgp4',
+    appId: '1:781780885501:windows:YOUR_WINDOWS_APP_ID',
+    messagingSenderId: '781780885501',
+    projectId: 'aura-689a4',
+    storageBucket: 'aura-689a4.firebasestorage.app',
   );
 
   static const FirebaseOptions linux = FirebaseOptions(
-    apiKey: 'AIzaSyDvgJICpWwGo0rAN-asYGc9RpeK7inLznc',
-    appId: '1:781788885501:linux:YOUR_LINUX_APP_ID', // You need to add this
-    messagingSenderId: '781788885501',
-    projectId: 'aura-6894',
-    storageBucket: 'aura-6894.firebasestorage.app',
+    apiKey: 'AIzaSyBpWKqN0fKLZ6G_tJNeLHy82yep0GZEgp4',
+    appId: '1:781780885501:linux:YOUR_LINUX_APP_ID',
+    messagingSenderId: '781780885501',
+    projectId: 'aura-689a4',
+    storageBucket: 'aura-689a4.firebasestorage.app',
   );
 }

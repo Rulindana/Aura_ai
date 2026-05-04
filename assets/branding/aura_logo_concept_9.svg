@@ -1,0 +1,20 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg9" x1="100" y1="104" x2="916" y2="926" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061814"/>
+      <stop offset="1" stop-color="#064E3B"/>
+    </linearGradient>
+    <radialGradient id="planet9" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(512 512) rotate(90) scale(202)">
+      <stop stop-color="#F0FFF8"/>
+      <stop offset="0.5" stop-color="#7AF0C2"/>
+      <stop offset="1" stop-color="#0D7A5A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="232" fill="url(#bg9)"/>
+  <circle cx="512" cy="512" r="198" fill="url(#planet9)"/>
+  <path d="M188 512C252 386 384 314 528 314C669 314 798 383 860 506" stroke="#A7F3D0" stroke-width="24" stroke-linecap="round"/>
+  <path d="M220 602C301 699 431 756 568 748C664 742 748 704 812 640" stroke="#34D399" stroke-width="20" stroke-linecap="round" opacity="0.9"/>
+  <circle cx="850" cy="504" r="24" fill="#D1FAE5"/>
+  <circle cx="814" cy="638" r="18" fill="#86EFAC"/>
+  <circle cx="250" cy="604" r="22" fill="#6EE7B7"/>
+</svg>

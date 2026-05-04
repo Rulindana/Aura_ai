@@ -1,0 +1,2364 @@
+[
+  {
+    "id": "python-programming",
+    "title": "Python Programming",
+    "provider": "Python.org",
+    "providerUrl": "https://www.python.org/about/gettingstarted/",
+    "category": "Programming / Software Development",
+    "level": "beginner",
+    "summary": "Learn Python fundamentals, practical scripting, and problem solving through structured online study.",
+    "tags": [
+      "python",
+      "programming",
+      "automation",
+      "software development"
+    ],
+    "unitTitles": [
+      "Python Basics",
+      "Control and Functions",
+      "Practical Programming"
+    ],
+    "topicTitles": [
+      "variables",
+      "data types",
+      "conditions",
+      "loops",
+      "functions",
+      "modules"
+    ],
+    "unitTopics": [
+      [
+        "installing python",
+        "using the interpreter",
+        "variables",
+        "numbers and strings"
+      ],
+      [
+        "if statements",
+        "for loops",
+        "while loops",
+        "defining functions"
+      ],
+      [
+        "modules",
+        "packages",
+        "input and output",
+        "errors and debugging"
+      ]
+    ]
+  },
+  {
+    "id": "java-programming",
+    "title": "Java Programming",
+    "provider": "Dev.java",
+    "providerUrl": "https://dev.java/learn",
+    "category": "Programming / Software Development",
+    "level": "beginner",
+    "summary": "Study Java syntax, object-oriented programming, and modern application building online.",
+    "tags": [
+      "java",
+      "oop",
+      "jdk",
+      "software engineering"
+    ],
+    "unitTitles": [
+      "Java Foundations",
+      "Object-Oriented Java",
+      "Java Application Development"
+    ],
+    "topicTitles": [
+      "classes",
+      "objects",
+      "methods",
+      "inheritance",
+      "collections",
+      "exceptions"
+    ],
+    "unitTopics": [
+      [
+        "jdk setup",
+        "running java",
+        "variables and types",
+        "control flow"
+      ],
+      [
+        "classes",
+        "objects",
+        "methods",
+        "inheritance"
+      ],
+      [
+        "collections",
+        "exceptions",
+        "packages",
+        "application structure"
+      ]
+    ]
+  },
+  {
+    "id": "c-cpp-programming",
+    "title": "C / C++ Programming",
+    "provider": "LearnCpp",
+    "providerUrl": "https://www.learncpp.com/",
+    "category": "Programming / Software Development",
+    "level": "intermediate",
+    "summary": "Build strong low-level programming skills with C and modern C++ study resources.",
+    "tags": [
+      "c",
+      "c++",
+      "memory",
+      "systems"
+    ],
+    "unitTitles": [
+      "Language Basics",
+      "Memory and Data",
+      "Modern C++ Development"
+    ],
+    "topicTitles": [
+      "syntax",
+      "pointers",
+      "references",
+      "arrays",
+      "classes",
+      "debugging"
+    ],
+    "unitTopics": [
+      [
+        "program structure",
+        "syntax",
+        "variables and types",
+        "control flow"
+      ],
+      [
+        "pointers",
+        "references",
+        "arrays",
+        "memory management"
+      ],
+      [
+        "classes",
+        "object-oriented c++",
+        "debugging",
+        "build tools"
+      ]
+    ]
+  },
+  {
+    "id": "javascript-development",
+    "title": "JavaScript Development",
+    "provider": "MDN Web Docs",
+    "providerUrl": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting",
+    "category": "Programming / Software Development",
+    "level": "beginner",
+    "summary": "Master JavaScript for web interactivity, logic, and application development.",
+    "tags": [
+      "javascript",
+      "web",
+      "frontend",
+      "programming"
+    ],
+    "unitTitles": [
+      "JavaScript Fundamentals",
+      "DOM and Events",
+      "Application Logic"
+    ],
+    "topicTitles": [
+      "variables",
+      "functions",
+      "arrays",
+      "dom",
+      "events",
+      "async programming"
+    ],
+    "unitTopics": [
+      [
+        "variables",
+        "operators",
+        "conditionals",
+        "loops"
+      ],
+      [
+        "functions",
+        "dom manipulation",
+        "events",
+        "event handlers"
+      ],
+      [
+        "arrays",
+        "objects",
+        "asynchronous javascript",
+        "debugging"
+      ]
+    ]
+  },
+  {
+    "id": "frontend-development",
+    "title": "Frontend Development (HTML, CSS, JS, React)",
+    "provider": "MDN and React",
+    "providerUrl": "https://developer.mozilla.org/docs/Learn_web_development",
+    "category": "Programming / Software Development",
+    "level": "intermediate",
+    "summary": "Study modern frontend development from HTML and CSS foundations to React interfaces.",
+    "tags": [
+      "frontend",
+      "html",
+      "css",
+      "javascript",
+      "react"
+    ],
+    "unitTitles": [
+      "Web Foundations",
+      "Responsive UI",
+      "React Interfaces"
+    ],
+    "topicTitles": [
+      "html structure",
+      "css layout",
+      "responsive design",
+      "javascript ui",
+      "components",
+      "state management"
+    ],
+    "unitTopics": [
+      [
+        "html structure",
+        "semantic html",
+        "css layout",
+        "forms and accessibility"
+      ],
+      [
+        "responsive design",
+        "flexbox and grid",
+        "javascript ui",
+        "dom updates"
+      ],
+      [
+        "components",
+        "props and composition",
+        "state management",
+        "react workflows"
+      ]
+    ]
+  },
+  {
+    "id": "backend-development",
+    "title": "Backend Development (Node.js, PHP, Django)",
+    "provider": "Node.js Learning",
+    "providerUrl": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+    "category": "Programming / Software Development",
+    "level": "intermediate",
+    "summary": "Learn backend APIs, server-side logic, and database-connected web services.",
+    "tags": [
+      "backend",
+      "nodejs",
+      "php",
+      "django",
+      "apis"
+    ],
+    "unitTitles": [
+      "Backend Basics",
+      "Framework Workflows",
+      "API Development"
+    ],
+    "topicTitles": [
+      "server setup",
+      "routing",
+      "databases",
+      "authentication",
+      "rest api",
+      "deployment"
+    ],
+    "unitTopics": [
+      [
+        "server setup",
+        "node runtime basics",
+        "routing",
+        "request response flow"
+      ],
+      [
+        "databases",
+        "authentication",
+        "framework structure",
+        "middleware"
+      ],
+      [
+        "rest api",
+        "validation",
+        "deployment",
+        "environment configuration"
+      ]
+    ]
+  },
+  {
+    "id": "full-stack-development",
+    "title": "Full Stack Development",
+    "provider": "The Odin Project",
+    "providerUrl": "https://www.theodinproject.com/paths/full-stack-javascript",
+    "category": "Programming / Software Development",
+    "level": "advanced",
+    "summary": "Study frontend and backend development together to build complete production-ready systems.",
+    "tags": [
+      "full stack",
+      "frontend",
+      "backend",
+      "projects"
+    ],
+    "unitTitles": [
+      "Frontend Systems",
+      "Backend Systems",
+      "Full Stack Integration"
+    ],
+    "topicTitles": [
+      "ui design",
+      "api integration",
+      "databases",
+      "authentication",
+      "deployment",
+      "project architecture"
+    ],
+    "unitTopics": [
+      [
+        "ui design",
+        "frontend architecture",
+        "stateful interfaces",
+        "user flows"
+      ],
+      [
+        "api integration",
+        "databases",
+        "authentication",
+        "backend coordination"
+      ],
+      [
+        "deployment",
+        "project architecture",
+        "testing strategy",
+        "production workflows"
+      ]
+    ]
+  },
+  {
+    "id": "database-management",
+    "title": "Database Management",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/training/browse/?terms=database%20fundamentals",
+    "category": "Database Management",
+    "level": "beginner",
+    "summary": "Understand how databases are designed, managed, secured, and used in digital systems.",
+    "tags": [
+      "database",
+      "sql",
+      "data",
+      "dbms"
+    ],
+    "unitTitles": [
+      "Database Concepts",
+      "Design and Queries",
+      "Administration Basics"
+    ],
+    "topicTitles": [
+      "dbms",
+      "tables",
+      "relationships",
+      "queries",
+      "security",
+      "backup"
+    ],
+    "unitTopics": [
+      [
+        "what is a dbms",
+        "relational data",
+        "tables and records",
+        "keys"
+      ],
+      [
+        "relationships",
+        "normalization",
+        "sql queries",
+        "joins"
+      ],
+      [
+        "database security",
+        "users and permissions",
+        "backup",
+        "recovery"
+      ]
+    ]
+  },
+  {
+    "id": "mysql-sql-databases",
+    "title": "MySQL / SQL Databases",
+    "provider": "MySQL",
+    "providerUrl": "https://dev.mysql.com/doc/refman/8.0/en/tutorial.html",
+    "category": "Database Management",
+    "level": "beginner",
+    "summary": "Learn SQL querying, schema design, and relational database operations with MySQL.",
+    "tags": [
+      "mysql",
+      "sql",
+      "relational",
+      "database"
+    ],
+    "unitTitles": [
+      "SQL Foundations",
+      "Relational Modeling",
+      "Practical Database Work"
+    ],
+    "topicTitles": [
+      "select",
+      "joins",
+      "schema",
+      "indexes",
+      "constraints",
+      "transactions"
+    ],
+    "unitTopics": [
+      [
+        "connecting to mysql",
+        "creating a database",
+        "creating a table",
+        "retrieving information"
+      ],
+      [
+        "loading data",
+        "common queries",
+        "foreign keys",
+        "searching on two keys"
+      ],
+      [
+        "user-defined variables",
+        "auto_increment",
+        "indexes",
+        "backup and recovery"
+      ]
+    ]
+  },
+  {
+    "id": "nosql-databases",
+    "title": "NoSQL Databases (MongoDB)",
+    "provider": "MongoDB University",
+    "providerUrl": "https://learn.mongodb.com/",
+    "category": "Database Management",
+    "level": "intermediate",
+    "summary": "Study document databases, flexible schemas, and modern NoSQL data modeling online.",
+    "tags": [
+      "mongodb",
+      "nosql",
+      "documents",
+      "data models"
+    ],
+    "unitTitles": [
+      "NoSQL Fundamentals",
+      "MongoDB Queries",
+      "Scalable Data Design"
+    ],
+    "topicTitles": [
+      "documents",
+      "collections",
+      "aggregation",
+      "indexing",
+      "replication",
+      "sharding"
+    ],
+    "unitTopics": [
+      [
+        "documents",
+        "collections",
+        "schema design",
+        "crud operations"
+      ],
+      [
+        "aggregation",
+        "indexing",
+        "query filters",
+        "data modeling"
+      ],
+      [
+        "replication",
+        "sharding",
+        "performance tuning",
+        "backup strategies"
+      ]
+    ]
+  },
+  {
+    "id": "cybersecurity-ethical-hacking",
+    "title": "Cybersecurity / Ethical Hacking",
+    "provider": "Cisco Networking Academy",
+    "providerUrl": "https://www.netacad.com/courses/cybersecurity",
+    "category": "Cybersecurity",
+    "level": "advanced",
+    "summary": "Explore cyber threats, defense strategies, and ethical security testing practices.",
+    "tags": [
+      "cybersecurity",
+      "ethical hacking",
+      "security",
+      "threats"
+    ],
+    "unitTitles": [
+      "Security Foundations",
+      "Offensive and Defensive Skills",
+      "Incident Response"
+    ],
+    "topicTitles": [
+      "threats",
+      "vulnerabilities",
+      "ethical hacking",
+      "hardening",
+      "monitoring",
+      "response"
+    ],
+    "unitTopics": [
+      [
+        "threats",
+        "vulnerabilities",
+        "attack surfaces",
+        "security principles"
+      ],
+      [
+        "ethical hacking",
+        "hardening",
+        "enumeration",
+        "defensive controls"
+      ],
+      [
+        "monitoring",
+        "response",
+        "incident handling",
+        "post-incident review"
+      ]
+    ]
+  },
+  {
+    "id": "network-security",
+    "title": "Network Security",
+    "provider": "Cisco Networking Academy",
+    "providerUrl": "https://www.netacad.com/courses/cybersecurity",
+    "category": "Cybersecurity",
+    "level": "advanced",
+    "summary": "Learn how to protect networks, devices, and traffic in modern IT environments.",
+    "tags": [
+      "network security",
+      "firewalls",
+      "iam",
+      "security operations"
+    ],
+    "unitTitles": [
+      "Secure Network Basics",
+      "Traffic Protection",
+      "Monitoring and Defense"
+    ],
+    "topicTitles": [
+      "firewalls",
+      "vpn",
+      "access control",
+      "ids ips",
+      "segmentation",
+      "logging"
+    ],
+    "unitTopics": [
+      [
+        "firewalls",
+        "access control",
+        "secure segmentation",
+        "security policy"
+      ],
+      [
+        "vpn",
+        "ids ips",
+        "traffic inspection",
+        "protected connectivity"
+      ],
+      [
+        "logging",
+        "monitoring",
+        "network defense operations",
+        "threat response"
+      ]
+    ]
+  },
+  {
+    "id": "computer-networking",
+    "title": "Computer Networking (CCNA, Routing & Switching)",
+    "provider": "Cisco Networking Academy",
+    "providerUrl": "https://www.netacad.com/courses/networking",
+    "category": "Networking",
+    "level": "intermediate",
+    "summary": "Study network communication, routing, switching, and troubleshooting for ICT careers.",
+    "tags": [
+      "ccna",
+      "networking",
+      "routing",
+      "switching"
+    ],
+    "unitTitles": [
+      "Networking Basics",
+      "Routing and Switching",
+      "Troubleshooting Networks"
+    ],
+    "topicTitles": [
+      "ip addressing",
+      "subnetting",
+      "routing",
+      "switching",
+      "vlans",
+      "troubleshooting"
+    ],
+    "unitTopics": [
+      [
+        "ip addressing",
+        "subnetting",
+        "network devices",
+        "tcp ip basics"
+      ],
+      [
+        "routing",
+        "switching",
+        "vlans",
+        "static and dynamic paths"
+      ],
+      [
+        "troubleshooting",
+        "diagnostic commands",
+        "packet flow",
+        "network documentation"
+      ]
+    ]
+  },
+  {
+    "id": "cloud-computing",
+    "title": "Cloud Computing (AWS, Azure, Google Cloud)",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/training/azure/",
+    "category": "Cloud Computing",
+    "level": "intermediate",
+    "summary": "Learn cloud service models, deployment patterns, and major platform workflows online.",
+    "tags": [
+      "cloud",
+      "aws",
+      "azure",
+      "google cloud"
+    ],
+    "unitTitles": [
+      "Cloud Foundations",
+      "Cloud Platforms",
+      "Cloud Operations"
+    ],
+    "topicTitles": [
+      "iaas paas saas",
+      "compute",
+      "storage",
+      "networking",
+      "security",
+      "cost optimization"
+    ],
+    "unitTopics": [
+      [
+        "iaas paas saas",
+        "shared responsibility",
+        "compute",
+        "storage"
+      ],
+      [
+        "networking",
+        "identity and access",
+        "security",
+        "virtual services"
+      ],
+      [
+        "cost optimization",
+        "monitoring",
+        "automation",
+        "operations best practices"
+      ]
+    ]
+  },
+  {
+    "id": "mobile-app-development",
+    "title": "Mobile App Development (Flutter, Android, React Native)",
+    "provider": "Flutter",
+    "providerUrl": "https://flutter.dev/learn",
+    "category": "Mobile Development",
+    "level": "intermediate",
+    "summary": "Build mobile apps with cross-platform and native workflows for Android and iOS ecosystems.",
+    "tags": [
+      "flutter",
+      "android",
+      "react native",
+      "mobile"
+    ],
+    "unitTitles": [
+      "Mobile UI Basics",
+      "App Logic and State",
+      "Publishing and Integration"
+    ],
+    "topicTitles": [
+      "widgets",
+      "navigation",
+      "state",
+      "api integration",
+      "device features",
+      "deployment"
+    ],
+    "unitTopics": [
+      [
+        "widgets",
+        "layouts",
+        "navigation",
+        "responsive mobile ui"
+      ],
+      [
+        "state",
+        "api integration",
+        "forms and validation",
+        "local storage"
+      ],
+      [
+        "device features",
+        "permissions",
+        "deployment",
+        "store release basics"
+      ]
+    ]
+  },
+  {
+    "id": "web-development-systems",
+    "title": "Web Development (Complete Web Systems)",
+    "provider": "MDN Web Docs",
+    "providerUrl": "https://developer.mozilla.org/docs/Learn_web_development",
+    "category": "Web Development",
+    "level": "intermediate",
+    "summary": "Study complete web systems from browser interfaces to backend-connected applications.",
+    "tags": [
+      "web development",
+      "systems",
+      "frontend",
+      "backend"
+    ],
+    "unitTitles": [
+      "Web Foundations",
+      "Interactive Applications",
+      "Complete Web Systems"
+    ],
+    "topicTitles": [
+      "html",
+      "css",
+      "javascript",
+      "http",
+      "apis",
+      "deployment"
+    ],
+    "unitTopics": [
+      [
+        "html",
+        "css",
+        "page structure",
+        "accessibility"
+      ],
+      [
+        "javascript",
+        "http",
+        "forms and browser behavior",
+        "client interaction"
+      ],
+      [
+        "apis",
+        "deployment",
+        "frontend-backend flow",
+        "web system architecture"
+      ]
+    ]
+  },
+  {
+    "id": "artificial-intelligence",
+    "title": "Artificial Intelligence (AI)",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/training/paths/get-started-with-artificial-intelligence-on-azure/",
+    "category": "Artificial Intelligence",
+    "level": "advanced",
+    "summary": "Learn core AI concepts, practical AI services, and responsible AI design.",
+    "tags": [
+      "ai",
+      "artificial intelligence",
+      "models",
+      "automation"
+    ],
+    "unitTitles": [
+      "AI Concepts",
+      "Applied AI Services",
+      "Responsible AI"
+    ],
+    "topicTitles": [
+      "intelligence",
+      "nlp",
+      "computer vision",
+      "agents",
+      "ethics",
+      "evaluation"
+    ],
+    "unitTopics": [
+      [
+        "intelligence",
+        "ai foundations",
+        "problem framing",
+        "ai workloads"
+      ],
+      [
+        "nlp",
+        "computer vision",
+        "agents",
+        "applied ai services"
+      ],
+      [
+        "ethics",
+        "evaluation",
+        "responsible ai",
+        "model governance"
+      ]
+    ]
+  },
+  {
+    "id": "machine-learning",
+    "title": "Machine Learning (ML)",
+    "provider": "Google Developers",
+    "providerUrl": "https://developers.google.com/machine-learning/crash-course",
+    "category": "Artificial Intelligence",
+    "level": "advanced",
+    "summary": "Study supervised learning, model evaluation, and core machine learning workflows.",
+    "tags": [
+      "machine learning",
+      "models",
+      "training",
+      "evaluation"
+    ],
+    "unitTitles": [
+      "ML Foundations",
+      "Model Building",
+      "Model Evaluation"
+    ],
+    "topicTitles": [
+      "datasets",
+      "features",
+      "training",
+      "validation",
+      "metrics",
+      "overfitting"
+    ],
+    "unitTopics": [
+      [
+        "datasets",
+        "features",
+        "data splitting",
+        "ml problem setup"
+      ],
+      [
+        "training",
+        "validation",
+        "model selection",
+        "tuning"
+      ],
+      [
+        "metrics",
+        "overfitting",
+        "error analysis",
+        "deployment readiness"
+      ]
+    ]
+  },
+  {
+    "id": "data-science",
+    "title": "Data Science",
+    "provider": "Kaggle",
+    "providerUrl": "https://www.kaggle.com/learn",
+    "category": "Data",
+    "level": "advanced",
+    "summary": "Learn data science workflows from data preparation to modeling and interpretation.",
+    "tags": [
+      "data science",
+      "python",
+      "analysis",
+      "machine learning"
+    ],
+    "unitTitles": [
+      "Data Preparation",
+      "Exploration and Modeling",
+      "Insight Communication"
+    ],
+    "topicTitles": [
+      "data cleaning",
+      "visualization",
+      "statistics",
+      "features",
+      "models",
+      "storytelling"
+    ],
+    "unitTopics": [
+      [
+        "data cleaning",
+        "exploratory analysis",
+        "statistics",
+        "feature preparation"
+      ],
+      [
+        "visualization",
+        "models",
+        "experimentation",
+        "interpretation"
+      ],
+      [
+        "storytelling",
+        "communication",
+        "decision support",
+        "report delivery"
+      ]
+    ]
+  },
+  {
+    "id": "data-analysis",
+    "title": "Data Analysis",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/training/paths/data-analytics-microsoft/",
+    "category": "Data",
+    "level": "intermediate",
+    "summary": "Build practical skills in analyzing, visualizing, and communicating data insights.",
+    "tags": [
+      "data analysis",
+      "reporting",
+      "dashboards",
+      "analytics"
+    ],
+    "unitTitles": [
+      "Analysis Foundations",
+      "Visualization",
+      "Business Insights"
+    ],
+    "topicTitles": [
+      "spreadsheets",
+      "cleaning data",
+      "charts",
+      "dashboards",
+      "kpis",
+      "reporting"
+    ],
+    "unitTopics": [
+      [
+        "spreadsheets",
+        "cleaning data",
+        "tabular analysis",
+        "data preparation"
+      ],
+      [
+        "charts",
+        "dashboards",
+        "data storytelling",
+        "visual analysis"
+      ],
+      [
+        "kpis",
+        "reporting",
+        "business insights",
+        "decision support"
+      ]
+    ]
+  },
+  {
+    "id": "internet-of-things",
+    "title": "Internet of Things (IoT)",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/training/paths/introduction-to-azure-iot/",
+    "category": "Internet of Things",
+    "level": "advanced",
+    "summary": "Study connected devices, sensors, messaging, and IoT solution design.",
+    "tags": [
+      "iot",
+      "devices",
+      "sensors",
+      "embedded"
+    ],
+    "unitTitles": [
+      "IoT Basics",
+      "Device Connectivity",
+      "IoT Solutions"
+    ],
+    "topicTitles": [
+      "sensors",
+      "telemetry",
+      "mqtt",
+      "device management",
+      "edge computing",
+      "security"
+    ],
+    "unitTopics": [
+      [
+        "sensors",
+        "telemetry",
+        "embedded data collection",
+        "iot architecture"
+      ],
+      [
+        "mqtt",
+        "device management",
+        "connectivity patterns",
+        "remote operations"
+      ],
+      [
+        "edge computing",
+        "security",
+        "iot deployment",
+        "solution maintenance"
+      ]
+    ]
+  },
+  {
+    "id": "system-administration",
+    "title": "System Administration (Linux, Servers)",
+    "provider": "Linux Journey",
+    "providerUrl": "https://linuxjourney.com/",
+    "category": "System Administration",
+    "level": "intermediate",
+    "summary": "Learn Linux systems, server operations, user management, and infrastructure maintenance.",
+    "tags": [
+      "linux",
+      "servers",
+      "system administration",
+      "shell"
+    ],
+    "unitTitles": [
+      "Linux Foundations",
+      "Server Management",
+      "Administration and Security"
+    ],
+    "topicTitles": [
+      "shell",
+      "filesystems",
+      "users",
+      "services",
+      "permissions",
+      "monitoring"
+    ],
+    "unitTopics": [
+      [
+        "shell",
+        "filesystems",
+        "linux commands",
+        "package management"
+      ],
+      [
+        "users",
+        "services",
+        "process control",
+        "server configuration"
+      ],
+      [
+        "permissions",
+        "monitoring",
+        "logs",
+        "hardening basics"
+      ]
+    ]
+  },
+  {
+    "id": "devops",
+    "title": "DevOps (Docker, CI/CD, Kubernetes)",
+    "provider": "Docker",
+    "providerUrl": "https://www.docker.com/101-tutorial/",
+    "category": "DevOps",
+    "level": "advanced",
+    "summary": "Study automation, containerization, delivery pipelines, and scalable deployments.",
+    "tags": [
+      "devops",
+      "docker",
+      "cicd",
+      "kubernetes"
+    ],
+    "unitTitles": [
+      "DevOps Foundations",
+      "Containers and Pipelines",
+      "Cloud Native Delivery"
+    ],
+    "topicTitles": [
+      "automation",
+      "docker",
+      "ci cd",
+      "kubernetes",
+      "monitoring",
+      "release management"
+    ],
+    "unitTopics": [
+      [
+        "automation",
+        "devops culture",
+        "versioned delivery",
+        "pipeline design"
+      ],
+      [
+        "docker",
+        "ci cd",
+        "container pipelines",
+        "artifact flows"
+      ],
+      [
+        "kubernetes",
+        "monitoring",
+        "release management",
+        "cloud-native operations"
+      ]
+    ]
+  },
+  {
+    "id": "software-testing-qa",
+    "title": "Software Testing / Quality Assurance (QA)",
+    "provider": "Playwright",
+    "providerUrl": "https://playwright.dev/docs/intro",
+    "category": "Software Testing",
+    "level": "intermediate",
+    "summary": "Learn software quality workflows including test design, automation, and verification practices.",
+    "tags": [
+      "testing",
+      "qa",
+      "automation",
+      "quality assurance"
+    ],
+    "unitTitles": [
+      "Testing Basics",
+      "Automated Testing",
+      "Quality Workflows"
+    ],
+    "topicTitles": [
+      "test cases",
+      "bug tracking",
+      "unit testing",
+      "integration testing",
+      "ui testing",
+      "regression"
+    ],
+    "unitTopics": [
+      [
+        "test cases",
+        "bug tracking",
+        "test planning",
+        "requirements review"
+      ],
+      [
+        "unit testing",
+        "integration testing",
+        "ui testing",
+        "test automation basics"
+      ],
+      [
+        "regression",
+        "defect lifecycle",
+        "quality metrics",
+        "release verification"
+      ]
+    ]
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design",
+    "provider": "Figma",
+    "providerUrl": "https://www.figma.com/resource-library/design-basics/",
+    "category": "Design",
+    "level": "beginner",
+    "summary": "Study user-centered design, interface structure, and modern product design workflows.",
+    "tags": [
+      "ui",
+      "ux",
+      "design",
+      "prototyping"
+    ],
+    "unitTitles": [
+      "UX Foundations",
+      "Interface Design",
+      "Prototyping and Testing"
+    ],
+    "topicTitles": [
+      "research",
+      "wireframes",
+      "visual hierarchy",
+      "components",
+      "prototyping",
+      "usability testing"
+    ],
+    "unitTopics": [
+      [
+        "user research",
+        "problem definition",
+        "user flows",
+        "wireframes"
+      ],
+      [
+        "visual hierarchy",
+        "layout",
+        "design systems",
+        "components"
+      ],
+      [
+        "interactive prototypes",
+        "feedback loops",
+        "usability testing",
+        "iteration"
+      ]
+    ]
+  },
+  {
+    "id": "game-development",
+    "title": "Game Development",
+    "provider": "Unity Learn",
+    "providerUrl": "https://learn.unity.com/",
+    "category": "Game Development",
+    "level": "advanced",
+    "summary": "Learn interactive game systems, assets, scripting, and publishing workflows.",
+    "tags": [
+      "game development",
+      "unity",
+      "interactive media",
+      "game design"
+    ],
+    "unitTitles": [
+      "Game Foundations",
+      "Gameplay Systems",
+      "Publishing Games"
+    ],
+    "topicTitles": [
+      "game loops",
+      "assets",
+      "physics",
+      "scripting",
+      "ui",
+      "deployment"
+    ],
+    "unitTopics": [
+      [
+        "game loops",
+        "assets",
+        "scene setup",
+        "interaction basics"
+      ],
+      [
+        "physics",
+        "scripting",
+        "gameplay systems",
+        "player feedback"
+      ],
+      [
+        "ui",
+        "deployment",
+        "build optimization",
+        "publishing"
+      ]
+    ]
+  },
+  {
+    "id": "blockchain-technology",
+    "title": "Blockchain Technology",
+    "provider": "Ethereum.org",
+    "providerUrl": "https://ethereum.org/en/learn/",
+    "category": "Blockchain",
+    "level": "expert",
+    "summary": "Study decentralized systems, blockchain fundamentals, and smart contract concepts.",
+    "tags": [
+      "blockchain",
+      "ethereum",
+      "decentralization",
+      "smart contracts"
+    ],
+    "unitTitles": [
+      "Blockchain Basics",
+      "Smart Contracts",
+      "Decentralized Systems"
+    ],
+    "topicTitles": [
+      "blocks",
+      "consensus",
+      "wallets",
+      "smart contracts",
+      "tokens",
+      "security"
+    ],
+    "unitTopics": [
+      [
+        "blocks",
+        "consensus",
+        "wallets",
+        "distributed ledgers"
+      ],
+      [
+        "smart contracts",
+        "tokens",
+        "transaction logic",
+        "contract security"
+      ],
+      [
+        "decentralized systems",
+        "governance",
+        "network security",
+        "web3 infrastructure"
+      ]
+    ]
+  },
+  {
+    "id": "big-data-technologies",
+    "title": "Big Data Technologies",
+    "provider": "Apache Spark",
+    "providerUrl": "https://spark.apache.org/docs/latest/",
+    "category": "Data Engineering",
+    "level": "expert",
+    "summary": "Learn distributed data processing, scalable analytics, and big data platform concepts.",
+    "tags": [
+      "big data",
+      "spark",
+      "distributed computing",
+      "data engineering"
+    ],
+    "unitTitles": [
+      "Big Data Foundations",
+      "Distributed Processing",
+      "Analytics Pipelines"
+    ],
+    "topicTitles": [
+      "clusters",
+      "distributed storage",
+      "spark jobs",
+      "streaming",
+      "etl",
+      "performance tuning"
+    ],
+    "unitTopics": [
+      [
+        "clusters",
+        "distributed storage",
+        "big data architecture",
+        "scalable ingestion"
+      ],
+      [
+        "spark jobs",
+        "streaming",
+        "parallel computation",
+        "batch vs stream processing"
+      ],
+      [
+        "etl",
+        "performance tuning",
+        "analytics pipelines",
+        "data platform operations"
+      ]
+    ]
+  },
+  {
+    "id": "embedded-systems",
+    "title": "Embedded Systems",
+    "provider": "Arduino Docs",
+    "providerUrl": "https://docs.arduino.cc/learn/",
+    "category": "Embedded Systems",
+    "level": "expert",
+    "summary": "Study microcontrollers, hardware-software interaction, and real-world embedded design.",
+    "tags": [
+      "embedded systems",
+      "arduino",
+      "microcontrollers",
+      "hardware"
+    ],
+    "unitTitles": [
+      "Embedded Foundations",
+      "Sensors and Control",
+      "Embedded Projects"
+    ],
+    "topicTitles": [
+      "microcontrollers",
+      "gpio",
+      "sensors",
+      "interrupts",
+      "firmware",
+      "debugging"
+    ],
+    "unitTopics": [
+      [
+        "microcontrollers",
+        "gpio",
+        "embedded architecture",
+        "hardware interfaces"
+      ],
+      [
+        "sensors",
+        "interrupts",
+        "signal handling",
+        "control workflows"
+      ],
+      [
+        "firmware",
+        "debugging",
+        "device integration",
+        "embedded project delivery"
+      ]
+    ]
+  },
+  {
+    "id": "csharp-net-development",
+    "title": "C# / .NET Development",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/dotnet/",
+    "category": "Programming / Software Development",
+    "level": "intermediate",
+    "summary": "Master C# language fundamentals, .NET runtime features, and modern backend & desktop applications.",
+    "tags": [
+      "c#",
+      "dotnet",
+      "programming",
+      "backend"
+    ],
+    "unitTitles": [
+      "C# Language Foundations",
+      "Modern .NET",
+      "App Development"
+    ],
+    "topicTitles": [
+      "classes",
+      "async",
+      "LINQ",
+      ".NET Core",
+      "apis",
+      "blazor"
+    ],
+    "unitTopics": [
+      [
+        "classes",
+        "types and methods",
+        "async",
+        "exception handling"
+      ],
+      [
+        "linq",
+        ".net core",
+        "dependency injection",
+        "project structure"
+      ],
+      [
+        "apis",
+        "blazor",
+        "web app patterns",
+        "deployment basics"
+      ]
+    ]
+  },
+  {
+    "id": "dart-flutter-mobile",
+    "title": "Dart & Flutter Cross-platform",
+    "provider": "flutter.dev",
+    "providerUrl": "https://docs.flutter.dev/get-started/codelab",
+    "category": "Mobile App Development",
+    "level": "intermediate",
+    "summary": "Use Dart to build reactive, cross-platform Flutter apps covering UI, state, and native integration.",
+    "tags": [
+      "dart",
+      "flutter",
+      "mobile",
+      "cross-platform"
+    ],
+    "unitTitles": [
+      "Dart Language",
+      "Flutter UI",
+      "Platform Integration"
+    ],
+    "topicTitles": [
+      "widgets",
+      "layouts",
+      "state management",
+      "animations",
+      "platform channels",
+      "deploy"
+    ],
+    "unitTopics": [
+      [
+        "dart syntax",
+        "widgets",
+        "layouts",
+        "state management"
+      ],
+      [
+        "animations",
+        "forms",
+        "navigation",
+        "responsive ui"
+      ],
+      [
+        "platform channels",
+        "device integration",
+        "testing",
+        "deploy"
+      ]
+    ]
+  },
+  {
+    "id": "php-laravel-development",
+    "title": "PHP / Laravel & CodeIgniter",
+    "provider": "Laravel.com",
+    "providerUrl": "https://laravel.com/docs",
+    "category": "Backend Development",
+    "level": "intermediate",
+    "summary": "Build robust PHP web services using Laravel and CodeIgniter frameworks, MVC patterns, and deployment.",
+    "tags": [
+      "php",
+      "laravel",
+      "codeigniter",
+      "backend"
+    ],
+    "unitTitles": [
+      "Modern PHP",
+      "Laravel Frameworks",
+      "Deployment & Security"
+    ],
+    "topicTitles": [
+      "blade",
+      "eloquent",
+      "routing",
+      "middleware",
+      "orm",
+      "testing"
+    ],
+    "unitTopics": [
+      [
+        "php basics",
+        "blade",
+        "routing",
+        "request lifecycle"
+      ],
+      [
+        "eloquent",
+        "orm relationships",
+        "middleware",
+        "authentication"
+      ],
+      [
+        "testing",
+        "deployment",
+        "security practices",
+        "framework structure"
+      ]
+    ]
+  },
+  {
+    "id": "ruby-rails-web-apps",
+    "title": "Ruby / Ruby on Rails",
+    "provider": "Ruby on Rails Guides",
+    "providerUrl": "https://guides.rubyonrails.org/",
+    "category": "Programming / Software Development",
+    "level": "intermediate",
+    "summary": "Learn Ruby syntax, Rails conventions, and rapid web development with MVC and RESTful APIs.",
+    "tags": [
+      "ruby",
+      "rails",
+      "web",
+      "mvc"
+    ],
+    "unitTitles": [
+      "Ruby Foundations",
+      "Rails Projects",
+      "API Services"
+    ],
+    "topicTitles": [
+      "ruby syntax",
+      "routing",
+      "activerecord",
+      "scaffolding",
+      "api mode",
+      "testing"
+    ],
+    "unitTopics": [
+      [
+        "ruby syntax",
+        "objects and methods",
+        "routing",
+        "controllers and views"
+      ],
+      [
+        "activerecord",
+        "scaffolding",
+        "migrations",
+        "forms and validation"
+      ],
+      [
+        "api mode",
+        "testing",
+        "deployment",
+        "app structure"
+      ]
+    ]
+  },
+  {
+    "id": "go-kotlin-swift",
+    "title": "Go, Kotlin & Swift Fundamentals",
+    "provider": "JetBrains / Go.dev",
+    "providerUrl": "https://go.dev/doc/",
+    "category": "Programming / Software Development",
+    "level": "intermediate",
+    "summary": "Cover Go for backend services plus Kotlin & Swift for modern Android and iOS development.",
+    "tags": [
+      "go",
+      "kotlin",
+      "swift",
+      "mobile",
+      "backend"
+    ],
+    "unitTitles": [
+      "Go Services",
+      "Kotlin Android",
+      "Swift iOS"
+    ],
+    "topicTitles": [
+      "goroutines",
+      "channels",
+      "android intents",
+      "compose",
+      "swiftui",
+      "async"
+    ],
+    "unitTopics": [
+      [
+        "goroutines",
+        "channels",
+        "go concurrency",
+        "package structure"
+      ],
+      [
+        "android intents",
+        "compose",
+        "kotlin app flow",
+        "state handling"
+      ],
+      [
+        "swiftui",
+        "async",
+        "ios navigation",
+        "platform app patterns"
+      ]
+    ]
+  },
+  {
+    "id": "r-matlab-data-science",
+    "title": "R & MATLAB for Data Science",
+    "provider": "DataCamp",
+    "providerUrl": "https://www.datacamp.com/",
+    "category": "Data Science",
+    "level": "intermediate",
+    "summary": "Use R and MATLAB for statistical analysis, modeling, visualization, and scientific computing.",
+    "tags": [
+      "r",
+      "matlab",
+      "data science",
+      "statistical analysis"
+    ],
+    "unitTitles": [
+      "R for Statistics",
+      "MATLAB Modeling",
+      "Advanced Visualization"
+    ],
+    "topicTitles": [
+      "dplyr",
+      "tidyverse",
+      "matrix math",
+      "signal processing",
+      "plots",
+      "simulink"
+    ],
+    "unitTopics": [
+      [
+        "dplyr",
+        "tidyverse",
+        "data wrangling",
+        "statistical summaries"
+      ],
+      [
+        "matrix math",
+        "signal processing",
+        "modeling workflows",
+        "numerical computing"
+      ],
+      [
+        "plots",
+        "simulink",
+        "visualization",
+        "analysis reporting"
+      ]
+    ]
+  },
+  {
+    "id": "scripting-shell-powershell",
+    "title": "Bash / Shell & PowerShell Scripting",
+    "provider": "Linux Journey & Microsoft",
+    "providerUrl": "https://linuxjourney.com/ and https://learn.microsoft.com/powershell/",
+    "category": "System Administration",
+    "level": "intermediate",
+    "summary": "Automate Linux and Windows tasks with Bash/shell pipelines plus PowerShell scripting.",
+    "tags": [
+      "bash",
+      "powershell",
+      "scripting",
+      "automation"
+    ],
+    "unitTitles": [
+      "Bash Essentials",
+      "Shell Automation",
+      "PowerShell Ops"
+    ],
+    "topicTitles": [
+      "bash loops",
+      "sed awk",
+      "cron",
+      "powershell cmdlets",
+      "remoting",
+      "modules"
+    ],
+    "unitTopics": [
+      [
+        "bash loops",
+        "shell variables",
+        "sed awk",
+        "file automation"
+      ],
+      [
+        "cron",
+        "shell pipelines",
+        "task scripting",
+        "linux operations"
+      ],
+      [
+        "powershell cmdlets",
+        "remoting",
+        "modules",
+        "administration automation"
+      ]
+    ]
+  },
+  {
+    "id": "frontend-frameworks",
+    "title": "Advanced Frontend Frameworks & Design",
+    "provider": "freeCodeCamp / MDN",
+    "providerUrl": "https://www.freecodecamp.org/learn",
+    "category": "Frontend Development",
+    "level": "advanced",
+    "summary": "Master HTML/CSS, SASS/LESS, JS frameworks, responsive design, and Tailwind/Bootstrap systems.",
+    "tags": [
+      "html",
+      "css",
+      "javascript",
+      "react",
+      "vue"
+    ],
+    "unitTitles": [
+      "Modern HTML/CSS",
+      "JS Frameworks",
+      "Responsive Systems"
+    ],
+    "topicTitles": [
+      "sass",
+      "tailwind",
+      "flexbox",
+      "grid",
+      "react hooks",
+      "vue composition"
+    ],
+    "unitTopics": [
+      [
+        "sass",
+        "tailwind",
+        "flexbox",
+        "grid systems"
+      ],
+      [
+        "react hooks",
+        "vue composition",
+        "component patterns",
+        "stateful interfaces"
+      ],
+      [
+        "responsive systems",
+        "design consistency",
+        "performance tuning",
+        "accessibility polish"
+      ]
+    ]
+  },
+  {
+    "id": "apis-microservices-graphql",
+    "title": "API Design, Microservices & GraphQL",
+    "provider": "IBM Developer",
+    "providerUrl": "https://developer.ibm.com/technologies/api/",
+    "category": "Backend Development",
+    "level": "advanced",
+    "summary": "Design REST/GraphQL APIs, secure them with JWT/OAuth, and architect resilient microservices.",
+    "tags": [
+      "graphql",
+      "rest",
+      "microservices",
+      "security"
+    ],
+    "unitTitles": [
+      "API Foundations",
+      "Security & Auth",
+      "Microservice Patterns"
+    ],
+    "topicTitles": [
+      "jwt",
+      "oauth2",
+      "graphql schema",
+      "service mesh",
+      "docker",
+      "kubernetes"
+    ],
+    "unitTopics": [
+      [
+        "jwt",
+        "oauth2",
+        "api security",
+        "service boundaries"
+      ],
+      [
+        "graphql schema",
+        "api contracts",
+        "microservice communication",
+        "service discovery"
+      ],
+      [
+        "service mesh",
+        "docker",
+        "kubernetes",
+        "operational resilience"
+      ]
+    ]
+  },
+  {
+    "id": "fullstack-stacks",
+    "title": "Full Stack Stacks (MERN, MEAN, LAMP, JAMstack)",
+    "provider": "The Odin Project & Netlify",
+    "providerUrl": "https://www.theodinproject.com/paths/full-stack-javascript",
+    "category": "Full Stack Development",
+    "level": "advanced",
+    "summary": "Learn end-to-end applications using MERN/MEAN, LAMP, and JAMstack architectures.",
+    "tags": [
+      "mern",
+      "mean",
+      "lamp",
+      "jamstack"
+    ],
+    "unitTitles": [
+      "Frontend and APIs",
+      "Databases & Servers",
+      "Deployment & Hosting"
+    ],
+    "topicTitles": [
+      "express",
+      "react",
+      "angular",
+      "apache",
+      "netlify",
+      "serverless"
+    ],
+    "unitTopics": [
+      [
+        "express",
+        "react",
+        "angular",
+        "frontend-backend composition"
+      ],
+      [
+        "apache",
+        "server runtime choices",
+        "database integration",
+        "application hosting"
+      ],
+      [
+        "netlify",
+        "serverless",
+        "deployment models",
+        "stack tradeoffs"
+      ]
+    ]
+  },
+  {
+    "id": "cloud-devops-infrastructure",
+    "title": "Cloud Computing & DevOps",
+    "provider": "Cloud Academy",
+    "providerUrl": "https://cloudacademy.com/",
+    "category": "Cloud Computing",
+    "level": "advanced",
+    "summary": "Cover AWS, Azure, GCP services, serverless patterns, cloud security, and DevOps tooling integration.",
+    "tags": [
+      "aws",
+      "azure",
+      "gcp",
+      "devops",
+      "security"
+    ],
+    "unitTitles": [
+      "Cloud Platforms",
+      "Security & Automation",
+      "DevOps Pipelines"
+    ],
+    "topicTitles": [
+      "lambda",
+      "azure functions",
+      "cloud storage",
+      "iam",
+      "terraform",
+      "github actions"
+    ],
+    "unitTopics": [
+      [
+        "lambda",
+        "azure functions",
+        "event-driven compute",
+        "managed services"
+      ],
+      [
+        "cloud storage",
+        "iam",
+        "security architecture",
+        "cloud governance"
+      ],
+      [
+        "terraform",
+        "github actions",
+        "automation pipelines",
+        "infrastructure delivery"
+      ]
+    ]
+  },
+  {
+    "id": "cybersecurity-advanced",
+    "title": "Cybersecurity & Ethical Hacking",
+    "provider": "EC-Council",
+    "providerUrl": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+    "category": "Cybersecurity",
+    "level": "expert",
+    "summary": "Learn ethical hacking, penetration testing, malware analysis, cryptography, IAM, and security compliance.",
+    "tags": [
+      "ethical hacking",
+      "pen testing",
+      "security",
+      "compliance"
+    ],
+    "unitTitles": [
+      "Security Fundamentals",
+      "Assessment Operations",
+      "Defensive Controls"
+    ],
+    "topicTitles": [
+      "wireshark",
+      "metasploit",
+      "burp suite",
+      "cryptography",
+      "identity management",
+      "policies"
+    ],
+    "unitTopics": [
+      [
+        "wireshark",
+        "cryptography",
+        "identity management",
+        "security architecture"
+      ],
+      [
+        "metasploit",
+        "burp suite",
+        "assessment methodology",
+        "offensive validation"
+      ],
+      [
+        "policies",
+        "defensive controls",
+        "incident handling",
+        "enterprise security operations"
+      ]
+    ]
+  },
+  {
+    "id": "networking-ccna-wireless",
+    "title": "Computer Networking & Wireless",
+    "provider": "Cisco Networking Academy",
+    "providerUrl": "https://www.netacad.com/portal/resources/courses",
+    "category": "Networking",
+    "level": "intermediate",
+    "summary": "Study TCP/IP, LAN/WAN, Cisco CCNA/CCNP, wireless technologies, VPNs, and firewall deployments.",
+    "tags": [
+      "ccna",
+      "routing",
+      "vpn",
+      "wireless",
+      "5g"
+    ],
+    "unitTitles": [
+      "Networking Fundamentals",
+      "Cisco Routing & Switching",
+      "Wireless & Security"
+    ],
+    "topicTitles": [
+      "ip addressing",
+      "ospf",
+      "wireless protocols",
+      "vpn",
+      "firewalls",
+      "5g"
+    ],
+    "unitTopics": [
+      [
+        "ip addressing",
+        "switching basics",
+        "routing basics",
+        "network services"
+      ],
+      [
+        "ospf",
+        "cisco routing and switching",
+        "wireless protocols",
+        "wireless security"
+      ],
+      [
+        "vpn",
+        "firewalls",
+        "5g",
+        "enterprise connectivity"
+      ]
+    ]
+  },
+  {
+    "id": "testing-automation",
+    "title": "Software Testing & Automation",
+    "provider": "Test Automation University",
+    "providerUrl": "https://testautomationu.applitools.com/",
+    "category": "Software Testing",
+    "level": "intermediate",
+    "summary": "Learn manual testing, Selenium/Appium automation, JUnit, CI integration, and QA tooling.",
+    "tags": [
+      "testing",
+      "selenium",
+      "appium",
+      "ci"
+    ],
+    "unitTitles": [
+      "Testing Concepts",
+      "Automation Tools",
+      "Continuous Testing"
+    ],
+    "topicTitles": [
+      "test planning",
+      "selenium webdriver",
+      "appium",
+      "junit",
+      "jira",
+      "testrail"
+    ],
+    "unitTopics": [
+      [
+        "test planning",
+        "automation strategy",
+        "selenium webdriver",
+        "ui automation"
+      ],
+      [
+        "appium",
+        "junit",
+        "api and mobile testing",
+        "test frameworks"
+      ],
+      [
+        "jira",
+        "testrail",
+        "continuous testing",
+        "reporting and traceability"
+      ]
+    ]
+  },
+  {
+    "id": "devops-automation",
+    "title": "DevOps & Automation Tooling",
+    "provider": "Linux Foundation",
+    "providerUrl": "https://training.linuxfoundation.org/",
+    "category": "DevOps & Automation",
+    "level": "advanced",
+    "summary": "Cover Git, Docker, Kubernetes, CI/CD (Jenkins/GitHub Actions/GitLab CI), Terraform/Ansible, and monitoring stacks.",
+    "tags": [
+      "docker",
+      "kubernetes",
+      "ci",
+      "terraform",
+      "prometheus"
+    ],
+    "unitTitles": [
+      "DevOps Principles",
+      "CI/CD Pipelines",
+      "Infrastructure & Monitoring"
+    ],
+    "topicTitles": [
+      "git",
+      "containers",
+      "jenkins",
+      "github actions",
+      "terraform",
+      "grafana"
+    ],
+    "unitTopics": [
+      [
+        "git",
+        "workflow strategy",
+        "automation triggers",
+        "release coordination"
+      ],
+      [
+        "containers",
+        "jenkins",
+        "github actions",
+        "pipeline orchestration"
+      ],
+      [
+        "terraform",
+        "grafana",
+        "infrastructure monitoring",
+        "operational visibility"
+      ]
+    ]
+  },
+  {
+    "id": "cloud-admin-virtualization",
+    "title": "System Administration & Virtualization",
+    "provider": "CompTIA",
+    "providerUrl": "https://www.comptia.org/credentials/linux",
+    "category": "System Administration",
+    "level": "intermediate",
+    "summary": "Learn Linux/Windows server administration, virtualization (VMware/VirtualBox), PowerShell, Active Directory, and backup strategies.",
+    "tags": [
+      "linux",
+      "windows server",
+      "active directory",
+      "virtualization"
+    ],
+    "unitTitles": [
+      "Server Fundamentals",
+      "Virtualization & Services",
+      "Backup & Recovery"
+    ],
+    "topicTitles": [
+      "users",
+      "services",
+      "vmware",
+      "directory services",
+      "backup",
+      "storage"
+    ],
+    "unitTopics": [
+      [
+        "users",
+        "services",
+        "server roles",
+        "operating system administration"
+      ],
+      [
+        "vmware",
+        "directory services",
+        "virtual machines",
+        "infrastructure services"
+      ],
+      [
+        "backup",
+        "storage",
+        "recovery planning",
+        "system maintenance"
+      ]
+    ]
+  },
+  {
+    "id": "mobile-app-cross-platform",
+    "title": "Mobile App Development (Flutter, React Native, Android, iOS)",
+    "provider": "Coursera",
+    "providerUrl": "https://www.coursera.org/browse/mobile-and-web-development",
+    "category": "Mobile App Development",
+    "level": "intermediate",
+    "summary": "Build Flutter, React Native, native Android (Kotlin) and iOS (Swift) apps with deployment pipelines.",
+    "tags": [
+      "mobile",
+      "flutter",
+      "react native",
+      "android",
+      "ios"
+    ],
+    "unitTitles": [
+      "Cross-platform Fundamentals",
+      "Native Platforms",
+      "Deployment & Stores"
+    ],
+    "topicTitles": [
+      "flutter widgets",
+      "react native",
+      "android intents",
+      "swiftui",
+      "app stores",
+      "ui/ux"
+    ],
+    "unitTopics": [
+      [
+        "flutter widgets",
+        "react native",
+        "cross-platform architecture",
+        "shared ui patterns"
+      ],
+      [
+        "android intents",
+        "swiftui",
+        "native integration",
+        "platform-specific behavior"
+      ],
+      [
+        "app stores",
+        "ui/ux",
+        "release workflows",
+        "publishing requirements"
+      ]
+    ]
+  },
+  {
+    "id": "emerging-technologies",
+    "title": "Emerging Technologies (AIoT, 5G, Edge, Quantum, AR/VR, Robotics)",
+    "provider": "edX",
+    "providerUrl": "https://www.edx.org/professional-certificate/mitx-systems-thinking",
+    "category": "Emerging Technologies",
+    "level": "advanced",
+    "summary": "Explore AI + IoT (AIoT), edge computing, 5G, quantum basics, AR/VR, and robotics automation.",
+    "tags": [
+      "aiot",
+      "edge",
+      "5g",
+      "quantum",
+      "arvr",
+      "robotics"
+    ],
+    "unitTitles": [
+      "AIoT & Edge Systems",
+      "Next-Gen Networks",
+      "Quantum & Immersive Tech"
+    ],
+    "topicTitles": [
+      "aiot",
+      "mqtt",
+      "edge deployment",
+      "5g",
+      "quantum computing",
+      "arvr"
+    ],
+    "unitTopics": [
+      [
+        "aiot",
+        "mqtt",
+        "edge deployment",
+        "connected intelligence"
+      ],
+      [
+        "5g",
+        "low-latency systems",
+        "distributed devices",
+        "future connectivity"
+      ],
+      [
+        "quantum computing",
+        "arvr",
+        "robotics",
+        "technology convergence"
+      ]
+    ]
+  },
+  {
+    "id": "cloud-data-analytics",
+    "title": "Cloud Data & Analytics (Power BI, Tableau, Excel)",
+    "provider": "Microsoft Learn",
+    "providerUrl": "https://learn.microsoft.com/training/paths/data-analytics/",
+    "category": "Data Science & Analytics",
+    "level": "intermediate",
+    "summary": "Analyze and visualize cloud data with Power BI, Tableau, and Excel, plus connect big data tools like Hadoop/Spark.",
+    "tags": [
+      "power bi",
+      "tableau",
+      "excel",
+      "big data"
+    ],
+    "unitTitles": [
+      "Data Cleaning & Modeling",
+      "Visualizations",
+      "Big Data Connectors"
+    ],
+    "topicTitles": [
+      "pandas",
+      "power bi",
+      "tableau",
+      "spark",
+      "hadoop",
+      "dashboards"
+    ],
+    "unitTopics": [
+      [
+        "pandas",
+        "excel modeling",
+        "data cleaning",
+        "tabular transformation"
+      ],
+      [
+        "power bi",
+        "tableau",
+        "dashboards",
+        "visual storytelling"
+      ],
+      [
+        "spark",
+        "hadoop",
+        "big data connectors",
+        "cloud analytics pipelines"
+      ]
+    ]
+  },
+  {
+    "id": "blockchain-crypto",
+    "title": "Blockchain & Cryptocurrency Development",
+    "provider": "Ethereum.org",
+    "providerUrl": "https://ethereum.org/en/developers/docs/",
+    "category": "Blockchain / Cryptocurrency",
+    "level": "intermediate",
+    "summary": "Learn blockchain fundamentals, Ethereum smart contracts, DApps, wallets, tokens, and security.",
+    "tags": [
+      "blockchain",
+      "smart contracts",
+      "crypto",
+      "ethereum"
+    ],
+    "unitTitles": [
+      "Blockchain Architecture",
+      "Contracts & DApps",
+      "Security & Wallets"
+    ],
+    "topicTitles": [
+      "solidity",
+      "dapps",
+      "wallets",
+      "tokens",
+      "crypto security",
+      "decentralization"
+    ],
+    "unitTopics": [
+      [
+        "blockchain basics",
+        "wallets",
+        "decentralization",
+        "network consensus"
+      ],
+      [
+        "solidity",
+        "dapps",
+        "smart contract flow",
+        "token standards"
+      ],
+      [
+        "crypto security",
+        "tokens",
+        "transaction design",
+        "web3 architecture"
+      ]
+    ]
+  }
+]

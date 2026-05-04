@@ -1,0 +1,40 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="planet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(512 508) rotate(90) scale(226)">
+      <stop stop-color="#F4FFFF"/>
+      <stop offset="0.28" stop-color="#9AF8FF"/>
+      <stop offset="0.62" stop-color="#3BC9F4"/>
+      <stop offset="1" stop-color="#0A5C9C"/>
+    </radialGradient>
+    <radialGradient id="planetGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(496 450) rotate(90) scale(278)">
+      <stop stop-color="#D8FCFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#D8FCFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="170" y1="406" x2="854" y2="612" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B7FDFF"/>
+      <stop offset="0.45" stop-color="#72E7FF"/>
+      <stop offset="1" stop-color="#E8FFFF"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="512" cy="512" r="304" fill="url(#planetGlow)"/>
+
+  <circle cx="512" cy="512" r="214" fill="url(#planet)"/>
+  <circle cx="512" cy="512" r="214" stroke="#DDFEFF" stroke-opacity="0.18" stroke-width="10"/>
+
+  <path d="M364 392C406 356 462 334 523 334C602 334 672 369 720 426" stroke="#E6FFFF" stroke-opacity="0.4" stroke-width="20" stroke-linecap="round"/>
+  <path d="M386 664C430 690 482 704 536 704C607 704 674 680 726 638" stroke="#0A3560" stroke-opacity="0.5" stroke-width="18" stroke-linecap="round"/>
+
+  <ellipse cx="512" cy="536" rx="338" ry="118" stroke="url(#ring)" stroke-width="28"/>
+  <ellipse cx="512" cy="536" rx="338" ry="118" stroke="#E9FFFF" stroke-opacity="0.16" stroke-width="8"/>
+
+  <circle cx="800" cy="586" r="36" fill="#F1FFFF"/>
+  <circle cx="800" cy="586" r="15" fill="#8CEBFF"/>
+
+  <circle cx="254" cy="484" r="24" fill="#9EF5FF"/>
+  <circle cx="692" cy="332" r="16" fill="#C9FBFF"/>
+
+  <circle cx="796" cy="586" r="58" stroke="#D7FEFF" stroke-opacity="0.22" stroke-width="4"/>
+
+  <circle cx="512" cy="512" r="10" fill="#FFFFFF" fill-opacity="0.72"/>
+</svg>

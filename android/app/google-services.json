@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "781780885501-42dqfqble5ndsic1ji4a383tjlfu5gqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aura_ai",
+            "certificate_hash": "7196b8da879aa2ad465715118742b0aa2890b421"
+          }
+        },
+        {
           "client_id": "781780885501-f9tcgti2vn7abtpfv2m5lv6p6dnhek7l.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,14 @@
             {
               "client_id": "781780885501-f9tcgti2vn7abtpfv2m5lv6p6dnhek7l.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "781780885501-8pudqsvuk61260tkcrfqfqqc3arfoe18.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.auraAi",
+                "app_store_id": "1234567890"
+              }
             }
           ]
         }

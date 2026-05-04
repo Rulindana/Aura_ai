@@ -4,15 +4,15 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        // This forces the Firebase plugin into the build path manually
         classpath("com.google.gms:google-services:4.4.1")
     }
 }
 
+import org.gradle.api.tasks.compile.JavaCompile
+
 plugins {
     id("com.android.application") version "8.11.1" apply false
     id("org.jetbrains.kotlin.android") version "2.2.20" apply false
-    // We removed the Firebase line from here because we moved it to the buildscript above
 }
 
 allprojects {
@@ -35,6 +35,12 @@ subprojects {
 
 subprojects {
     project.evaluationDependsOn(":app")
+}
+
+subprojects {
+    tasks.withType<JavaCompile>().configureEach {
+        options.compilerArgs.add("-Xlint:-options")
+    }
 }
 
 tasks.register<Delete>("clean") {
